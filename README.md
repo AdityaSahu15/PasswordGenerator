@@ -1,10 +1,12 @@
 🔐 Password Generator
 
+
 A simple and customizable password generator built with React + Tailwind CSS.
 This app allows users to create strong, random passwords with options to include uppercase, lowercase, numbers, and special characters.
 
 
-🚀 Features
+🚀 FEATURES
+
 
 ✅ Generate secure random passwords
 
@@ -25,7 +27,8 @@ This app allows users to create strong, random passwords with options to include
 ✅ Responsive and minimal UI
 
 
-🛠️ Tech Stack
+🛠️ TECH STACK
+
 
 React – Frontend framework
 
@@ -35,7 +38,8 @@ Vite – Fast build tool
 
 
 
-📦 Installation & Setup
+📦 INSTALLATION AND SETUP
+
 
 Clone the repo:
 git clone https://github.com/your-username/password-generator.git
@@ -48,7 +52,8 @@ Run the app:
 npm run dev
 
 
-🎯 Usage
+🎯 USAGE
+
 
 Select desired password length
 
